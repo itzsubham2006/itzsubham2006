@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **Deep learning**
 
-- 🤝 I’m looking for help with **Devops**
+- 🤝 I’m looking for help with **Deep Learning**
 
-- 💬 Ask me about **CSS,JS,PYTHON etc.**
+- 💬 Ask me about **CSS, JS, PYTHON etc.**
 
 - 📫 How to reach me **lastw5232@gmail.com**
 
