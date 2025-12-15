@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Subham Pathak</h1>
 <h3 align="center">A passionate ML learner from India.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=itzsubham2006&label=Profile%20views&color=0e75b6&style=flat" alt="itzsubham2006" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=itzsubham2006&label=Profile%20views&color=0e75b6&style=flat" alt="itzsubham2006" /> </p> 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itzsubham2006" alt="itzsubham2006" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itzsubham2006" alt="itzsubham2006" /></a> </p> -->
 
 - 🌱 I’m currently learning **Deep learning**
 
