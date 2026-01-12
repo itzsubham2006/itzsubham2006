@@ -5,6 +5,12 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itzsubham2006" alt="itzsubham2006" /></a> </p> -->
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=itzsubham2006&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=itzsubham2006&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=itzsubham2006&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+
 - 🌱 I’m currently learning **Deep learning**
 
 - 🤝 I’m looking for help with **Deep Learning**
