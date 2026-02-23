@@ -46,12 +46,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=itzsubham2006&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=itzsubham2006&show_icons=true&theme=tokyonight&hide_border=true" height="165"/> -->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=itzsubham2006&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itzsubham2006&layout=compact&theme=tokyonight&hide_border=true"/>
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itzsubham2006&layout=compact&theme=tokyonight&hide_border=true"/> -->
 </p>
 
 ---
@@ -59,7 +59,7 @@
 ### 🏆 Achievements
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=itzsubham2006&theme=algolia&no-frame=true&no-bg=true&margin-w=4"/>
+<!-- <img src="https://github-profile-trophy.vercel.app/?username=itzsubham2006&theme=algolia&no-frame=true&no-bg=true&margin-w=4"/> -->
 </p>
 
 ---
