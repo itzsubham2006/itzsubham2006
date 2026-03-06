@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Subham Pathak</h1>
-<h3 align="center">🤖 AI/ML Learner | B.Tech CSE Student | Future Builder</h3>
+<h1 align="center">Hi, I'm Subham Pathak</h1>
+<h3 align="center">AI/ML Learner | B.Tech CSE Student | Future Builder</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=650&lines=Machine+Learning+Enthusiast;Deep+Learning+Explorer;Python+Developer;Always+Learning+New+Things+🚀" />
