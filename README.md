@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Subham Pathak</h1>
+<h1 align="center">Hi, I'm Subham Pathak</h1>
 <h3 align="center">AI/ML Learner • B.Tech CSE Student • Future Builder</h3>
 
 <p align="center">
@@ -7,19 +7,19 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-- 🎓 **B.Tech (CSE) Student**
-- 🌱 Currently learning **Deep Learning**
-- 💡 Love building **ML Models, Apps & Websites**
-- 🤝 Looking to collaborate on **AI Projects**
-- ⚡ Fun fact: I love exploring **new technologies**
+- **B.Tech (CSE) Student**
+- Currently learning **Deep Learning**
+- Love building **ML Models, Apps & Websites**
+- Looking to collaborate on **AI Projects**
+- Fun fact: I love exploring **new technologies**
 
-📫 Reach me at: **lastw5232@gmail.com**
+Reach me at: **lastw5232@gmail.com**
 
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 
 <p align="center">
 
@@ -39,7 +39,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,c,cpp,js,html,css,tailwind,linux,git,tensorflow,opencv,unity" />
@@ -47,7 +47,7 @@
 
 ---
 
-## 🏆 GitHub Achievements
+## GitHub Achievements
 
 <div align="center">
 
@@ -57,7 +57,7 @@
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
 
@@ -73,7 +73,7 @@
 
 ---
 
-## 📈 Contribution Graph
+## Contribution Graph
 
 <div align="center">
 
@@ -83,7 +83,7 @@
 
 ---
 
-## 🔥 Contribution Insights
+## Contribution Insights
 
 <div align="center">
 
@@ -93,7 +93,7 @@
 
 ---
 
-## 🧠 Coding Activity
+## Coding Activity
 
 <div align="center">
 
@@ -108,7 +108,7 @@
 
 ---
 
-## 🚀 Developer Metrics Dashboard
+## Developer Metrics Dashboard
 
 <div align="center">
 
@@ -122,9 +122,9 @@
 
 
 
-## ✨ Philosophy
+## Philosophy
 
-> **Build → Break → Learn → Improve → Repeat 🚀**
+> **Build → Break → Learn → Improve → Repeat **
 
 ---
 
