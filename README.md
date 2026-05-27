@@ -83,15 +83,6 @@ Reach me at: **lastw5232@gmail.com**
 
 ---
 
-## Contribution Insights
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=itzsubham2006&theme=tokyonight"/>
-
-</div>
-
----
 
 ## Coding Activity
 
