@@ -53,7 +53,7 @@
 <p>
 
 <a href="https://linkedin.com/in/subhampathak"><img src="https://skillicons.dev/icons?i=linkedin" height="25"/></a>
-<a href="https://www.kaggle.com/lwsubham"><img src="https://skillicons.dev/icons?i=kaggle" height="25"/></a>
+<a href="https://www.kaggle.com/lwsubham"><img src="https://www.kaggle.com/favicon.ico" height="25"/></a>
 <a href="https://instagram.com/s_ubhqm"><img src="https://skillicons.dev/icons?i=instagram" height="25"/></a>
 
 </p>
