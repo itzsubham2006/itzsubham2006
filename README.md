@@ -1,122 +1,139 @@
-<h1 align="center">Hi, I'm Subham Pathak</h1>
-<h3 align="center">AI/ML Learner • B.Tech CSE Student • Future Builder</h3>
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=650&lines=Machine+Learning+Enthusiast;Deep+Learning+Explorer;Python+Developer;Always+Learning+New+Things+🚀"/>
-</p>
-
----
-
-## About Me
-
-- **B.Tech (CSE) Student**
-- Currently learning **Deep Learning**
-- Love building **ML Models, Apps & Websites**
-- Looking to collaborate on **AI Projects**
-- Fun fact: I love exploring **new technologies**
-
-Reach me at: **lastw5232@gmail.com**
-
----
-
-## Connect With Me
-
-<p align="center">
-
-<a href="https://linkedin.com/in/subhampathak">
-<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
-</a>
-
-<a href="https://www.kaggle.com/lwsubham">
-<img src="https://skillicons.dev/icons?i=kaggle" height="45"/>
-</a>
-
-<a href="https://instagram.com/s_ubhqm">
-<img src="https://skillicons.dev/icons?i=instagram" height="45"/>
-</a>
-
-</p>
-
----
-
-## Tech Stack
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,c,cpp,js,html,css,tailwind,linux,git,tensorflow,opencv,unity" />
-</p>
-
----
-
-## GitHub Achievements
-
 <div align="center">
 
-<!-- <img src="https://github-profile-trophy.vercel.app/?username=itzsubham2006&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8"/> -->
+<pre style="font-family: 'Fira Code', 'Cascadia Code', monospace; background: #0d1117; color: #00f7ff; line-height: 1.4;">
+
+╔══════════════════════════════════════════════════════════════════╗
+║                    SUBHAM PATHAK                                ║
+║  ─────────────────────────────────────────────────────────────  ║
+║  $ ssh subham@github.io                                        ║
+║  User   : subham         Status : [ACTIVE]  ◆  Online          ║
+║  Role   : AI/ML Learner  |  B.Tech CSE                         ║
+║  Session: Connected from github.com                             ║
+╚══════════════════════════════════════════════════════════════════╝
+
+</pre>
+
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=13&duration=3000&color=00F7FF&center=true&vCenter=true&width=650&lines=Machine+Learning+Enthusiast;Deep+Learning+Explorer;Python+Developer;Always+Learning+New+Things+"/>
 
 </div>
 
 ---
 
-## GitHub Analytics
+<div align="center">
+
+<pre style="font-family: 'Fira Code', 'Cascadia Code', monospace; background: #0d1117; color: #c9d1d9; line-height: 1.4;">
+
+┌─── systeminfo ──────────────────────────────────────────────────┐
+│ OS        : B.Tech CSE  ·  IET Lucknow                          │
+│ Kernel    : Deep Learning Explorer                              │
+│ Shell     : Python >> JavaScript >> C++                         │
+│ Uptime    : 20+ years of continuous learning                    │
+│ Contact   : lastw5232@gmail.com                                 │
+│ Focus     : AI/ML · Full Stack · Open Source                    │
+└──────────────────────────────────────────────────────────────────┘
+
+</pre>
+
+</div>
+
+---
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=itzsubham2006&show_icons=true&theme=tokyonight&hide_border=true"/>
+<pre style="font-family: 'Fira Code', 'Cascadia Code', monospace; background: #0d1117; color: #c9d1d9; line-height: 1.4;">
 
-<img height="170" src="https://streak-stats.demolab.com?user=itzsubham2006&theme=tokyonight&hide_border=true"/>
+┌─── ping ────────────────────────────────────────────────────────┐
+│  linkedin.com/in/subhampathak     ● [ACTIVE]    42ms           │
+│  kaggle.com/lwsubham              ● [ACTIVE]    38ms           │
+│  instagram.com/s_ubhqm            ● [ACTIVE]    55ms           │
+└──────────────────────────────────────────────────────────────────┘
+
+</pre>
+
+<p>
+
+<a href="https://linkedin.com/in/subhampathak"><img src="https://skillicons.dev/icons?i=linkedin" height="25"/></a>
+<a href="https://www.kaggle.com/lwsubham"><img src="https://skillicons.dev/icons?i=kaggle" height="25"/></a>
+<a href="https://instagram.com/s_ubhqm"><img src="https://skillicons.dev/icons?i=instagram" height="25"/></a>
+
+</p>
+
+</div>
+
+---
+
+<div align="center">
+
+<pre style="font-family: 'Fira Code', 'Cascadia Code', monospace; background: #0d1117; color: #c9d1d9; line-height: 1.4;">
+
+┌─── apt list --installed ────────────────────────────────────────┐
+│  python     ●●●●●●●●●●  [CORE]    │  git       ●●●●●●●●●●  [VCS] │
+│  c          ●●●●●●●○○○  [LANG]    │  tensorflow●●●●●●○○○○  [ML]  │
+│  cpp        ●●●●●●○○○○  [LANG]    │  opencv    ●●●●●●○○○○  [CV]  │
+│  javascript ●●●●●●●○○○  [LANG]    │  unity     ●●●●●○○○○○  [GAME]│
+│  html/css   ●●●●●●●●●●  [MARKUP]  │  tailwind  ●●●●●●●○○○  [FRAME]│
+│  linux      ●●●●●●●●○○  [SYS]     │                              │
+└──────────────────────────────────────────────────────────────────┘
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,c,cpp,js,html,css,tailwind,linux,git,tensorflow,opencv,unity" height="25"/>
+</p>
+
+</div>
+  
+---
+
+
+<div align="center">
+
+<pre style="font-family: 'Fira Code', 'Cascadia Code', monospace; background: #0d1117; color: #00f7ff; line-height: 1.4;">
+
+┌─── dashboard — github analytics ────────────────────────────────┐
+│  Loading live stats for itzsubham2006...                        │
+└──────────────────────────────────────────────────────────────────┘
+
+</pre>
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=itzsubham2006&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="160" src="https://streak-stats.demolab.com?user=itzsubham2006&theme=tokyonight&hide_border=true"/>
 
 <br><br>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itzsubham2006&layout=compact&theme=tokyonight&hide_border=true"/>
+<!-- <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itzsubham2006&layout=compact&theme=tokyonight&hide_border=true"/> -->
 
 </div>
 
----
 
-## Contribution Graph
+
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=itzsubham2006&theme=tokyo-night&hide_border=true"/>
+<pre style="font-family: 'Fira Code', 'Cascadia Code', monospace; background: #0d1117; color: #58a6ff; line-height: 1.4;">
+
+┌─── philosophy ──────────────────────────────────────────────────┐
+│                                                                  │
+│                  BUILD  →  BREAK  →  LEARN                      │
+│                  IMPROVE →  REPEAT →                            │
+│                                                                  │
+└──────────────────────────────────────────────────────────────────┘
+
+</pre>
 
 </div>
 
 ---
-
-
-## Coding Activity
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=itzsubham2006&theme=tokyonight"/>
+<pre style="font-family: 'Fira Code', 'Cascadia Code', monospace; background: #0d1117; color: #484f58; line-height: 1.4;">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=itzsubham2006&theme=tokyonight"/>
+╔══════════════════════════════════════════════════════════════════╗
+║  $ sudo shutdown -h now                                        ║
+║  System halted. See you next commit!                            ║
+╚══════════════════════════════════════════════════════════════════╝
 
-</div>
+</pre>
 
----
-
-
----
-
-## Developer Metrics Dashboard
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=itzsubham2006&theme=tokyonight"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=itzsubham2006&theme=tokyonight&utcOffset=5"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:2563eb&height=100&section=footer"/>
 
 </div>
-
----
-
-
-
-## Philosophy
-
-> **Build → Break → Learn → Improve → Repeat **
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:2563eb&height=120&section=footer"/>
