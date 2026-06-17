@@ -6,7 +6,7 @@
 ║                    SUBHAM PATHAK                                ║
 ║  ─────────────────────────────────────────────────────────────  ║
 ║  $ ssh subham@github.io                                        ║
-║  User   : subham         Status : [ACTIVE]  ◆  Online          ║
+║  User   : subham         Status : [Sleeping....]               ║
 ║  Role   : AI/ML Learner  |  B.Tech CSE                         ║
 ║  Session: Connected from github.com                             ║
 ╚══════════════════════════════════════════════════════════════════╝
