@@ -3,7 +3,7 @@
 <pre style="font-family: 'Fira Code', 'Cascadia Code', monospace; background: #0d1117; color: #00f7ff; line-height: 1.4;">
 
 ╔══════════════════════════════════════════════════════════════════╗
-║                    SUBHAM PATHAK                                ║
+║                          SUBHAM PATHAK                           ║
 ║  ─────────────────────────────────────────────────────────────  ║
 ║  $ ssh subham@github.io                                        ║
 ║  User   : subham         Status : [Sleeping....]               ║
@@ -24,13 +24,13 @@
 <pre style="font-family: 'Fira Code', 'Cascadia Code', monospace; background: #0d1117; color: #c9d1d9; line-height: 1.4;">
 
 ┌─── systeminfo ──────────────────────────────────────────────────┐
-│ OS        : B.Tech CSE  ·  IET Lucknow                          │
+│ OS        : B.Tech CSE  ·  CIT kokrajhar                        │
 │ Kernel    : Deep Learning Explorer                              │
-│ Shell     : Python >> JavaScript >> C++                         │
-│ Uptime    : 20+ years of continuous learning                    │
+│ Shell     : Python >> JavaScript >> C                           │
+│ Uptime    : All is well                                         │
 │ Contact   : lastw5232@gmail.com                                 │
 │ Focus     : AI/ML · Full Stack · Open Source                    │
-└──────────────────────────────────────────────────────────────────┘
+└─────────────────────────────────────────────────────────────────┘
 
 </pre>
 
@@ -43,10 +43,10 @@
 <pre style="font-family: 'Fira Code', 'Cascadia Code', monospace; background: #0d1117; color: #c9d1d9; line-height: 1.4;">
 
 ┌─── ping ────────────────────────────────────────────────────────┐
-│  linkedin.com/in/subhampathak     ● [ACTIVE]    42ms           │
-│  kaggle.com/lwsubham              ● [ACTIVE]    38ms           │
-│  instagram.com/s_ubhqm            ● [ACTIVE]    55ms           │
-└──────────────────────────────────────────────────────────────────┘
+│  linkedin.com/in/subhampathak     ● [ACTIVE]    42ms            │
+│  kaggle.com/lwsubham              ● [ACTIVE]    38ms            │
+│  instagram.com/s_ubhqm            ● [ACTIVE]    55ms            │
+└─────────────────────────────────────────────────────────────────┘
 
 </pre>
 
@@ -70,8 +70,8 @@
 │  python     ●●●●●●●●●●  [CORE]    │  git       ●●●●●●●●●●  [VCS] │
 │  c          ●●●●●●●○○○  [LANG]    │  tensorflow●●●●●●○○○○  [ML]  │
 │  cpp        ●●●●●●○○○○  [LANG]    │  opencv    ●●●●●●○○○○  [CV]  │
-│  javascript ●●●●●●●○○○  [LANG]    │  unity     ●●●●●○○○○○  [GAME]│
-│  html/css   ●●●●●●●●●●  [MARKUP]  │  tailwind  ●●●●●●●○○○  [FRAME]│
+ │  javascript ●●●●●●●○○○  [LANG]    │  tailwind  ●●●●●●●○○○  [FRAME]│
+│  html/css   ●●●●●●●●●●  [MARKUP]  │   sql       ●●●●●●○○○○ [Db]  │
 │  linux      ●●●●●●●●○○  [SYS]     │                              │
 └──────────────────────────────────────────────────────────────────┘
 
@@ -90,7 +90,7 @@
 
 ┌─── dashboard — github analytics ────────────────────────────────┐
 │  Loading live stats for itzsubham2006...                        │
-└──────────────────────────────────────────────────────────────────┘
+└─────────────────────────────────────────────────────────────────┘
 
 </pre>
 
@@ -111,11 +111,11 @@
 <pre style="font-family: 'Fira Code', 'Cascadia Code', monospace; background: #0d1117; color: #58a6ff; line-height: 1.4;">
 
 ┌─── philosophy ──────────────────────────────────────────────────┐
-│                                                                  │
+│                                                                 │
 │                  BUILD  →  BREAK  →  LEARN                      │
-│                  IMPROVE →  REPEAT →                            │
-│                                                                  │
-└──────────────────────────────────────────────────────────────────┘
+│                  IMPROVE →  REPEAT                              │
+│                                                                 │
+└─────────────────────────────────────────────────────────────────┘
 
 </pre>
 
@@ -128,8 +128,8 @@
 <pre style="font-family: 'Fira Code', 'Cascadia Code', monospace; background: #0d1117; color: #484f58; line-height: 1.4;">
 
 ╔══════════════════════════════════════════════════════════════════╗
-║  $ sudo shutdown -h now                                        ║
-║  System halted. See you next commit!                            ║
+║  $ sudo shutdown -h now                                          ║
+║  System halted. See you next commit!                             ║
 ╚══════════════════════════════════════════════════════════════════╝
 
 </pre>
