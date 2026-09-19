@@ -2,14 +2,18 @@
 
 <pre style="font-family: 'Fira Code', 'Cascadia Code', monospace; background: #0d1117; color: #00f7ff; line-height: 1.4;">
 
-╔══════════════════════════════════════════════════════════════════╗
-║                          SUBHAM PATHAK                           ║
-║  ─────────────────────────────────────────────────────────────  ║
+╔════════════════════════════════════════════════════════════════╗
+║                          SUBHAM PATHAK                         ║
+║────────────────────────────────────────────────────────────────║
 ║  $ ssh subham@github.io                                        ║
-║  User   : subham         Status : [Sleeping....]               ║
-║  Role   : AI/ML Learner  |  B.Tech CSE                         ║
-║  Session: Connected from github.com                             ║
-╚══════════════════════════════════════════════════════════════════╝
+║ User      : subham         Status : [Sleeping....]             ║
+║ Role      : AI/ML Learner  |  B.Tech CSE                       ║
+║ Session   : Connected from github.com                          ║
+║ OS        : B.Tech CSE  ·  CIT kokrajhar                       ║
+║ Shell     : Python >> JavaScript >> C                          ║
+║ Uptime    : Infinite                                           ║
+║ Focus     : AI/ML · Full Stack · Open Source                   ║
+╚════════════════════════════════════════════════════════════════╝
 
 </pre>
 
@@ -19,7 +23,7 @@
 
 ---
 
-<div align="center">
+<!-- <div align="center">
 
 <pre style="font-family: 'Fira Code', 'Cascadia Code', monospace; background: #0d1117; color: #c9d1d9; line-height: 1.4;">
 
@@ -34,9 +38,9 @@
 
 </pre>
 
-</div>
+</div> -->
 
----
+
 
 <div align="center">
 
@@ -47,16 +51,14 @@
 │  kaggle.com/lwsubham              ● [ACTIVE]    38ms            │
 │  instagram.com/s_ubhqm            ● [ACTIVE]    55ms            │
 └─────────────────────────────────────────────────────────────────┘
+ <p>
 
+<a href="https://linkedin.com/in/subhampathak"><img src="https://skillicons.dev/icons?i=linkedin" height="25"/></a><a href="https://www.kaggle.com/lwsubham"><img src="https://www.kaggle.com/favicon.ico" height="25"/></a><a href="https://instagram.com/s_ubhqm"><img src="https://skillicons.dev/icons?i=instagram" height="25"/></a>
+</p>
+ 
 </pre>
 
-<p>
 
-<a href="https://linkedin.com/in/subhampathak"><img src="https://skillicons.dev/icons?i=linkedin" height="25"/></a>
-<a href="https://www.kaggle.com/lwsubham"><img src="https://www.kaggle.com/favicon.ico" height="25"/></a>
-<a href="https://instagram.com/s_ubhqm"><img src="https://skillicons.dev/icons?i=instagram" height="25"/></a>
-
-</p>
 
 </div>
 
@@ -81,8 +83,8 @@
 
 </div>
   
----
 
+---
 
 <div align="center">
 
