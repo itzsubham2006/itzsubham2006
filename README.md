@@ -84,15 +84,15 @@
 </div>
   
 
----
+<br>
 
 <div align="center">
 
-<pre style="font-family: 'Fira Code', 'Cascadia Code', monospace; background: #0d1117; color: #00f7ff; line-height: 1.4;">
+<!-- <pre style="font-family: 'Fira Code', 'Cascadia Code', monospace; background: #0d1117; color: #00f7ff; line-height: 1.4;"> -->
 
-┌─── dashboard — github analytics ────────────────────────────────┐
+<!-- ┌─── dashboard — github analytics ────────────────────────────────┐
 │  Loading live stats for itzsubham2006...                        │
-└─────────────────────────────────────────────────────────────────┘
+└─────────────────────────────────────────────────────────────────┘ -->
 
 </pre>
 
