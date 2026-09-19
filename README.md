@@ -2,18 +2,25 @@
 
 <pre style="font-family: 'Fira Code', 'Cascadia Code', monospace; background: #0d1117; color: #00f7ff; line-height: 1.4;">
 
-╔════════════════════════════════════════════════════════════════╗
-║                          SUBHAM PATHAK                         ║
-║────────────────────────────────────────────────────────────────║
-║  $ ssh subham@github.io                                        ║
-║ User      : subham         Status : [Sleeping....]             ║
-║ Role      : AI/ML Learner  |  B.Tech CSE                       ║
-║ Session   : Connected from github.com                          ║
-║ OS        : B.Tech CSE  ·  CIT kokrajhar                       ║
-║ Shell     : Python >> JavaScript >> C                          ║
-║ Uptime    : Infinite                                           ║
-║ Focus     : AI/ML · Full Stack · Open Source                   ║
-╚════════════════════════════════════════════════════════════════╝
+ 
+╔════════════════════════════════════════════════════════════════════╗
+║                                                                    ║
+║                           SUBHAM PATHAK                            ║
+║────────────────────────────────────────────────────────────────────║
+║  $ ssh subham@github.io                                            ║
+║                                                                    ║
+║        .--.          subham@cit-kokrajhar                          ║
+║       |o_o |         ──────────────────────────────                ║
+║       |:_/ |         User    : subham                              ║
+║      //   \ \        Status  : [Learning....]                      ║
+║     (|     | )       Role    : AI/ML Learner | B.Tech CSE          ║
+║    /'\_   _/`\       OS      : B.Tech CSE · CIT Kokrajhar          ║
+║    \___)=(___/       Shell   : Python >> JavaScript >> C           ║
+║                      Focus   : AI/ML · Full Stack · Open Source    ║
+║                      Session : Connected from github.com           ║
+║                      Uptime  : Infinite                            ║
+║                                                                    ║
+╚════════════════════════════════════════════════════════════════════╝
 
 </pre>
 
@@ -22,24 +29,6 @@
 </div>
 
 ---
-
-<!-- <div align="center">
-
-<pre style="font-family: 'Fira Code', 'Cascadia Code', monospace; background: #0d1117; color: #c9d1d9; line-height: 1.4;">
-
-┌─── systeminfo ──────────────────────────────────────────────────┐
-│ OS        : B.Tech CSE  ·  CIT kokrajhar                        │
-│ Kernel    : Deep Learning Explorer                              │
-│ Shell     : Python >> JavaScript >> C                           │
-│ Uptime    : All is well                                         │
-│ Contact   : lastw5232@gmail.com                                 │
-│ Focus     : AI/ML · Full Stack · Open Source                    │
-└─────────────────────────────────────────────────────────────────┘
-
-</pre>
-
-</div> -->
-
 
 
 <div align="center">
@@ -53,14 +42,11 @@
 └─────────────────────────────────────────────────────────────────┘
  <p>
 
-<a href="https://linkedin.com/in/subhampathak"><img src="https://skillicons.dev/icons?i=linkedin" height="25"/></a><a href="https://www.kaggle.com/lwsubham"><img src="https://www.kaggle.com/favicon.ico" height="25"/></a><a href="https://instagram.com/s_ubhqm"><img src="https://skillicons.dev/icons?i=instagram" height="25"/></a>
-</p>
- 
+<a href="https://linkedin.com/in/subhampathak"><img src="https://skillicons.dev/icons?i=linkedin" height="25"/></a><a href="https://www.kaggle.com/lwsubham"><img src="https://www.kaggle.com/favicon.ico" height="25"/></a><a href="https://instagram.com/s_ubhqm"><img src="https://skillicons.dev/icons?i=instagram" height="25"/></a></p>
 </pre>
 
-
-
 </div>
+
 
 ---
 
@@ -76,24 +62,12 @@
 │  html/css   ●●●●●●●●●●  [MARKUP]  │   sql       ●●●●●●○○○○ [Db]  │
 │  linux      ●●●●●●●●○○  [SYS]     │                              │
 └──────────────────────────────────────────────────────────────────┘
-
 <p>
 <img src="https://skillicons.dev/icons?i=python,c,cpp,js,html,css,tailwind,linux,git,tensorflow,opencv,unity" height="25"/>
 </p>
-
 </div>
-  
-
 <br>
-
 <div align="center">
-
-<!-- <pre style="font-family: 'Fira Code', 'Cascadia Code', monospace; background: #0d1117; color: #00f7ff; line-height: 1.4;"> -->
-
-<!-- ┌─── dashboard — github analytics ────────────────────────────────┐
-│  Loading live stats for itzsubham2006...                        │
-└─────────────────────────────────────────────────────────────────┘ -->
-
 </pre>
 
 <!-- <img height="160" src="https://github-readme-stats.vercel.app/api?username=itzsubham2006&show_icons=true&theme=tokyonight&hide_border=true"/> -->
