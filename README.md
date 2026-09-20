@@ -9,7 +9,7 @@
 ║────────────────────────────────────────────────────────────────────║
 ║  $ ssh subham@github.io                                            ║
 ║                                                                    ║
-║        .--.          subham@cit-kokrajhar                          ║
+║        .--.          itzsubham                                     ║
 ║       |o_o |         ──────────────────────────────                ║
 ║       |:_/ |         User    : subham                              ║
 ║      //   \ \        Status  : [Learning....]                      ║
