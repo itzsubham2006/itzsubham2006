@@ -28,7 +28,7 @@
 ║──────────────────────────────────────────────────────────────────────────║
 ║                               Tech Stack                                 ║
 ║                                                                          ║
-║              <img src="https://skillicons.dev/icons?i=python,c,cpp,js,html,css,tailwind,linux,git,tensorflow,opencv,unity" height="20"/>                       ║
+║              <img src="https://skillicons.dev/icons?i=python,c,cpp,js,html,css,tailwind,linux,git,tensorflow,opencv,unity" height="20"/>                    ║
 ║                                                                          ║
 ╚══════════════════════════════════════════════════════════════════════════╝
 </pre>
